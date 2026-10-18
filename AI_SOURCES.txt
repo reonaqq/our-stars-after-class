@@ -1,0 +1,6 @@
+gpt-5.2-high
+gemini-2.5-flash-image-preview
+grok-imagine-image-quality
+aurora-red-alpha
+goku-pink
+“ИИ‑ассеты используются в соответствии с условиями соответствующих сервисов”
