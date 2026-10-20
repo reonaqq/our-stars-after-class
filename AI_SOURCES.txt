@@ -1,4 +1,7 @@
-gpt-5.2-high
+
+
+For images:
 gemini-2.5-flash-image-preview
 goku-pink  Apache License 2.0
+
 ИИ‑ассеты используются в соответствии с условиями соответствующих сервисов
